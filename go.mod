@@ -1,4 +1,4 @@
-module cpkg
+module github.com/qianxunhai/cpkg
 
 go 1.14
 

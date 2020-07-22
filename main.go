@@ -4,7 +4,7 @@ import (
     "flag"
     "fmt"
     "github.com/xlab/treeprint"
-    tpl "cpkg/template"
+    tpl "github.com/qianxunhai/cpkg/template"
     "os"
     "path"
     "path/filepath"
